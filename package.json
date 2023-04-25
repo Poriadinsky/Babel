@@ -1,0 +1,23 @@
+{
+  "name": "babel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Poriadinsky/Babel.git"
+  },
+  "keywords": [
+    "babel"
+  ],
+  "author": "Poriadin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Poriadinsky/Babel/issues"
+  },
+  "homepage": "https://github.com/Poriadinsky/Babel#readme"
+}
